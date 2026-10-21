@@ -1,0 +1,7 @@
+QUESTION: Is there a lifetime limit under MediAsas?
+ANSWER: [S1] and [S4] state that there is no lifetime limit imposed under MediAsas.
+RETRIEVED PAGES: [8, 20, 4, 14]
+
+QUESTION: What is the CEO's favourite pizza topping?
+ANSWER: I couldn't find an answer in the uploaded documents. Please upload a relevant document or ask a more specific question.
+RETRIEVED PAGES: [1, 13, 4, 1]
